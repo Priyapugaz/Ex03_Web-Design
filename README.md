@@ -27,16 +27,12 @@
 ## CODE
 <html>
 <head>
-<style>
-table, th, td {
-  border: 1px solid black;
-}
-</style>
 </head>
 <body>
   <img src="C:\Users\User\Pictures\saveetha logo.png"width="1000" height="150"img-align="center;">
 <h1 style="text-align:center;">SLOT TIME TABLE-DEEPIKA S (22008367)</h1>
 <table style="width:100%">
+<table border="5px">
   <tr>
   <tr style="background-color:yellow">
     <th>Day/Time</th>
