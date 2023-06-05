@@ -25,7 +25,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-<html>
+```<html>
 <head>
 </head>
 <body>
@@ -81,12 +81,13 @@
 </tr>
 </table>
 </body>
-</html>
+</html>```
 
 
 
 
 ## OUTPUT
+![Uploading timetable output.png…]()
 
 
 ## RESULT
