@@ -85,7 +85,7 @@
 
 
 ## OUTPUT
-![Uploading timetable output.png…]()
+![Screenshot (2)](https://github.com/Priyapugaz/Ex03_Web-Design/assets/127816320/c8209712-9744-4cf2-8c39-0994769872c2)
 
 
 ## RESULT
