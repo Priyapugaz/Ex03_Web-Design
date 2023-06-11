@@ -25,7 +25,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-```<html>``
+```<html>
 <body>
  <img src="C:\Users\User\Pictures\saveetha logo.png"width="1000" height="150"img-align="center;">
 <h1 style="text-align:center;">SLOT TIME TABLE-P.PRIYADHARSHNI (22006791)</h1>
@@ -79,7 +79,7 @@
  </tr> 
  </table> 
 </body>
-```</html>```
+</html>```
 
 
 
