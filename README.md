@@ -29,30 +29,30 @@
 <head>
 </head>
 <body>
-  <img src="C:\Users\User\Pictures\saveetha logo.png"width="1000" height="150"img-align="center;">
+ ```<img src="C:\Users\User\Pictures\saveetha logo.png"width="1000" height="150"img-align="center;">```
 <h1 style="text-align:center;">SLOT TIME TABLE-DEEPIKA S (22008367)</h1>
 <table style="width:100%">
 <table border="5px">
-  <tr>
-  <tr style="background-color:yellow">
-    <th>Day/Time</th>
-    <th>Monday</th> 
-    <th>Tuesday</th>
-    <th>Wednesday</th>
-    <th>Thursday</th>
-    <th>Friday</th>
-</tr>
-  <tr style="background-color:cyan">
-    <td style="background-color:yellow">8-10</td>
-    <td>FUNDAMENTALS OF C PROGRAMMING </td>
-    <td>COMMUCATIVE ENGLISH </td>
-    <td>PHYSICS FOR QUANTUM COMPUTATION</td>
-    <td>STATISTICS AND NUMERICAL METHODS</td>
-    <td> FUNDAMENTALS OF C PROGRAMMING</td>
+  ```<tr>```
+  ```<tr style="background-color:yellow">```
+    ```<th>Day/Time</th>```
+    ```<th>Monday</th> ```
+    ```<th>Tuesday</th>```
+    ```<th>Wednesday</th>```
+    ```<th>Thursday</th>```
+    ```<th>Friday</th>```
+```</tr>```
+  ```<tr style="background-color:cyan">```
+    ```<td style="background-color:yellow">8-10</td>```
+    ```<td>FUNDAMENTALS OF C PROGRAMMING </td>```
+   ``` <td>COMMUCATIVE ENGLISH </td>```
+   ``` <td>PHYSICS FOR QUANTUM COMPUTATION</td>```
+   ``` <td>STATISTICS AND NUMERICAL METHODS</td>```
+   ``` <td> FUNDAMENTALS OF C PROGRAMMING</td>```
 
-  </tr>
-  <tr style="background-color:cyan">
-    <td style="background-color:yellow">10-12</td>
+  ```</tr>```
+  ```<tr style="background-color:cyan">```
+    ```<td style="background-color:yellow">10-12</td>```
     <td>FREE SLOT</td>
     <td>FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT</td>
     <td>PRINCIPLES OF CHEMISTRY IN ENGINEERING </td>
