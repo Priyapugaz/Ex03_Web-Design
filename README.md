@@ -86,6 +86,7 @@
 
 ## OUTPUT
 
+![Screenshot (3)](https://github.com/Priyapugaz/Ex03_Web-Design/assets/127816320/fd5bcdc7-4715-401e-afae-0de394406a97)
 
 
 ## RESULT
