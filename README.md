@@ -28,7 +28,7 @@
 `<html>`
 `<body>`
  `<img src="C:\Users\User\Pictures\saveetha logo.png"width="1000" height="150"img-align="center;">`
-`<h1 style="text-align:center;">SLOT TIME TABLE-DEEPIKA S (22008367)</h1>`
+`<h1 style="text-align:center;">SLOT TIME TABLE-P.PRIYADHARSHNI (22006791)</h1>`
 `<table style="width:100%">`
 `<table border="5px">`
   `<tr>`
@@ -85,7 +85,7 @@
 
 
 ## OUTPUT
-![Screenshot (2)](https://github.com/Priyapugaz/Ex03_Web-Design/assets/127816320/c8209712-9744-4cf2-8c39-0994769872c2)
+
 
 
 ## RESULT
